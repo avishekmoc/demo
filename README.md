@@ -1,2 +1,2 @@
 # demo
-this is demo type just practice
+this is demo type just practice.
